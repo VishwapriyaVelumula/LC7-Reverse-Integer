@@ -43,3 +43,5 @@ To solve this problem, I used a **mathematical digit manipulation technique** ra
 
 ---
 
+### LeetCode Submission Screenshot
+![Accepted Screenshot](./screenshot/lc7-accepted-code.png)
